@@ -9,7 +9,6 @@
     "wang2015structural"
     "ren2015spectram"
     "liu2018will"
-    "liu2019neural"
     "liu2019discontinuous"
     "liu2014secondary"
     "liu2019alpha"
@@ -18,6 +17,9 @@
     "wang2015rsh"
     "liu2015bounds"
     "liu2015node"
-    "liu2019entropy"))
+    "liu2019entropy"
+    "liu2020powering"
+    "liu2020neural"
+    "honore2020hidden"))
  :bibtex)
 
