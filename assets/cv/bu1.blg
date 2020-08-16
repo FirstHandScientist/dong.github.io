@@ -8,73 +8,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ../bibfile.bib
-Warning--entry type for "liuenergy" isn't style-file defined
---line 1 of file ../bibfile.bib
-I was expecting an "="---line 166 of file ../bibfile.bib
- : @Comment   
- :            Author = {Name Namesson},
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 175 of file ../bibfile.bib
- : @Comment   
- :            Author = {Name Namesson},
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 188 of file ../bibfile.bib
- : @Comment   
- :            Author = {Name Namesson},
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 197 of file ../bibfile.bib
- : @Comment   
- :            Author = {Name Namesson},
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 206 of file ../bibfile.bib
- : @Comment   
- :            Author = {Name Namesson},
-I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty booktitle in liu2019alpha
 
 Done.
-You've used 18 entries,
+You've used 14 entries,
             4203 wiz_defined-function locations,
-            920 strings with 11386 characters,
-and the built_in function-call counts, 16371 in all, are:
-= -- 1229
-> -- 520
-< -- 118
-+ -- 278
-- -- 107
-* -- 810
-:= -- 2156
-add.period$ -- 45
-call.type$ -- 18
-change.case$ -- 18
-chr.to.int$ -- 294
-cite$ -- 19
-duplicate$ -- 1200
-empty$ -- 1334
-format.name$ -- 119
-if$ -- 3806
+            896 strings with 10409 characters,
+and the built_in function-call counts, 9665 in all, are:
+= -- 707
+> -- 294
+< -- 41
++ -- 154
+- -- 67
+* -- 477
+:= -- 1355
+add.period$ -- 31
+call.type$ -- 14
+change.case$ -- 14
+chr.to.int$ -- 108
+cite$ -- 15
+duplicate$ -- 760
+empty$ -- 865
+format.name$ -- 75
+if$ -- 2217
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 218
-newline$ -- 77
-num.names$ -- 18
-pop$ -- 575
+int.to.str$ -- 14
+missing$ -- 139
+newline$ -- 65
+num.names$ -- 14
+pop$ -- 392
 preamble$ -- 1
-purify$ -- 202
+purify$ -- 122
 quote$ -- 2
-skip$ -- 1250
+skip$ -- 740
 stack$ -- 0
-substring$ -- 720
-swap$ -- 902
-text.length$ -- 20
+substring$ -- 282
+swap$ -- 491
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 18
+type$ -- 14
 warning$ -- 1
-while$ -- 70
-width$ -- 20
-write$ -- 183
-(There were 5 error messages)
+while$ -- 30
+width$ -- 16
+write$ -- 138
+(There was 1 warning)

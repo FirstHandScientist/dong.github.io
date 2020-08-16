@@ -21,6 +21,32 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{liu2020region}
+\textbf{D.~Liu}, R.~Thobaben, and L.~K. Rasmussen, ``Region-based energy neural
+  network for approximate inference,'' \emph{arXiv preprint arXiv:2006.09927},
+  2020.
+
+\bibitem{liu2020alpha}
+\textbf{D.~Liu}, M.~T. Vu, Z.~Li, and L.~K. Rasmussen, ``$\alpha$ belief
+  propagation for approximate inference,'' \emph{arXiv preprint
+  arXiv:2006.15363}, 2020.
+
+\bibitem{zuxing2020cdc}
+Z.~Li, G.~Dan, and \textbf{D.~Liu}, ``A game theoretic analysis of lqg control
+  under adversarial attack,'' in \emph{59th IEEE Conference on Decision and
+  Control}, 2020.
+
+\bibitem{anubhad2020}
+A.~Ghosh, A.~Honor{\'e}, \textbf{D.~Liu}, G.~E. Henter, and S.~Chatterjee,
+  ``Robust classification using hidden markov models and mixtures of
+  normalizing flows,'' in \emph{to appeary in IEEE International Workshop on
+  Machine Learning for Signal Processing}, 2020.
+
+\bibitem{andrea2020}
+A.~Scotti, N.~N. Moghadam, \textbf{D.~Liu}, K.~Gafvert, and J.~Huang, ``Graph
+  neural networks for massive mimo detection and higher-order qam,'' in
+  \emph{in ICML Workshop on Graph Representation Learning and Beyond}, 2020.
+
 \bibitem{liu2020powering}
 \textbf{D.~Liu}, A.~Honor\'{e}, S.~Chatterjee, and L.~K. Rasmussen, ``Powering
   hidden markov model by neural network based generative models,'' in \emph{The
@@ -37,6 +63,12 @@ A.~Honor{\'e}, \textbf{D.~Liu}, D.~Forsberg, K.~Coste, E.~Herlenius,
 \textbf{D.~Liu}, M.~T. Vu, S.~Chatterjee, and L.~K. Rasmussen, ``Neural network
   based explicit mixture models and expectation-maximization based learning,''
   in \emph{International Joint Conference on Neural Networks}, 2020.
+
+\bibitem{chatterjee2019ssfn}
+S.~Chatterjee, A.~M. Javid, M.~Sadeghi, S.~Kikuta, \textbf{D.~Liu}, P.~P.
+  Mitra, and M.~Skoglund, ``Ssfn--self size-estimating feed-forward network
+  with low complexity, limited need for human intervention, and consistent
+  behaviour across trials,'' \emph{arXiv preprint arXiv:1905.07111}, 2019.
 
 \bibitem{liu2019discontinuous}
 \textbf{D.~Liu}, C.~Wang, and L.~K. Rasmussen, ``Discontinuous reception for
@@ -64,66 +96,5 @@ A.~Honor{\'e}, \textbf{D.~Liu}, D.~Forsberg, K.~Coste, E.~Herlenius,
 \textbf{D.~Liu}, V.~Fodor, and L.~K. Rasmussen, ``Will scale-free popularity
   develop scale-free geo-social networks?'' \emph{IEEE Transactions on Network
   Science and Engineering}, 2018.
-
-\bibitem{liu2015bounds}
-\textbf{D.~Liu}, E.~Liu, Y.~Ren, Z.~Zhang, R.~Wang, and F.~Liu, ``Bounds on
-  secondary user connectivity in cognitive radio networks,'' \emph{IEEE
-  Communications Letters}, vol.~19, no.~4, pp. 617--620, 2015.
-
-\bibitem{wang2015rsh}
-D.~Wang, E.~Liu, \textbf{D.~Liu}, X.~Qu, R.~Ma, P.~Wang, and X.~Liu, ``Rsh: A
-  link-addition strategy for capacity enhancement in scale-free networks,''
-  \emph{IEEE Communications Letters}, vol.~19, no.~12, pp. 2110--2113, 2015.
-
-\bibitem{zhang2015effective}
-Z.~Zhang, E.~Liu, X.~Qu, \textbf{D.~Liu}, R.~Wang, and F.~Liu, ``Effective
-  coverage for the connectivity of magnetic induction-based ad hoc networks,''
-  in \emph{2015 IEEE Global Communications Conference (GLOBECOM)}.\hskip 1em
-  plus 0.5em minus 0.4em\relax IEEE, 2015, pp. 1--6.
-
-\bibitem{liu2015node}
-\textbf{D.~Liu}, E.~Liu, Y.~Ren, Z.~Zhang, D.~Wang, R.~Wang, P.~Wang, F.~Liu,
-  and C.~H. Liu, ``Node density and connectivity of multi-channel ad hoc
-  cognitive radio networks,'' in \emph{2015 IEEE/CIC International Conference
-  on Communications in China (ICCC)}.\hskip 1em plus 0.5em minus 0.4em\relax
-  IEEE, 2015, pp. 1--6.
-
-\bibitem{wang2015structural}
-D.~Wang, E.~Liu, \textbf{D.~Liu}, X.~Qu, R.~Ma, R.~Wang, P.~Wang, F.~Liu, and
-  C.~H. Liu, ``Structural hole based link addition for capacity enhancement in
-  scale-free networks,'' in \emph{2015 IEEE/CIC International Conference on
-  Communications in China (ICCC)}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
-  2015, pp. 1--6.
-
-\bibitem{liu2014secondary}
-\textbf{D.~Liu}, E.~Liu, Z.~Zhang, R.~Wang, Y.~Ren, Y.~Liu, I.~W.-H. Ho,
-  X.~Yin, and F.~Liu, ``Secondary network connectivity of ad hoc cognitive
-  radio networks,'' \emph{IEEE Communications Letters}, vol.~18, no.~12, pp.
-  2177--2180, 2014.
-
-\bibitem{liuenergy}
-\textbf{D.~Liu}, E.~Liu, Y.~R. IET, R.~W. Zhengqing, X.~Yin, and F.~Liu,
-  ``Energy based sequence detection algorithm with multi-slot for cognitive
-  radio networks.''
-
-\bibitem{ren2015applying}
-Y.~Ren, C.~Wang, \textbf{D.~Liu}, F.~Liu, and E.~Liu, ``Applying lte-d2d to
-  support v2v communication using local geographic knowledge,'' in \emph{2015
-  IEEE 82nd Vehicular Technology Conference (VTC2015-Fall)}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2015, pp. 1--5.
-
-\bibitem{ren2015spectram}
-Y.~Ren, \textbf{D.~Liu}, C.~Wang, F.~Liu, and E.~Liu,
-  ``Spectram-sculpting-aided interference avoidance for ofdm-based cognitive
-  networks,'' in \emph{2015 IEEE 26th Annual International Symposium on
-  Personal, Indoor, and Mobile Radio Communications (PIMRC)}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2015, pp. 1012--1017.
-
-\bibitem{ren2015spectrum}
-Y.~Ren, C.~Wang, \textbf{D.~Liu}, F.~Liu, and E.~Liu,
-  ``Spectrum-sculpting-aided pu-claiming in ofdma cognitive radio networks,''
-  in \emph{International Conference on Cognitive Radio Oriented Wireless
-  Networks}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2015, pp.
-  295--307.
 
 \end{thebibliography}

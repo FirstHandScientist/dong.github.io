@@ -8,7 +8,6 @@
     "zhang2015effective"
     "wang2015structural"
     "ren2015spectram"
-    "liu2018will"
     "liu2019discontinuous"
     "liu2014secondary"
     "liu2019alpha"
@@ -20,6 +19,13 @@
     "liu2019entropy"
     "liu2020powering"
     "liu2020neural"
-    "honore2020hidden"))
+    "honore2020hidden"
+    "liu2020region"
+    "liu2020alpha"
+    "anubhad2020"
+    "andrea2020"
+    "zuxing2020cdc"
+    "chatterjee2019ssfn"
+    "liu2018will"))
  :bibtex)
 

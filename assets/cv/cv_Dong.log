@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.10.12)  14 MAY 2020 19:19
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.10.12)  13 AUG 2020 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,24 +395,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-Overfull \hbox (3.85088pt too wide) in paragraph at lines 102--130
+Overfull \hbox (3.85088pt too wide) in paragraph at lines 102--131
 [][] 
  []
 
 
-Overfull \hbox (1.58699pt too wide) in paragraph at lines 137--144
+Overfull \hbox (1.58699pt too wide) in paragraph at lines 137--145
 [][] 
  []
 
 
-Overfull \hbox (2.1981pt too wide) in paragraph at lines 154--162
+Overfull \hbox (2.1981pt too wide) in paragraph at lines 161--169
 [][] 
- []
-
-
-Overfull \hbox (0.35706pt too wide) in paragraph at lines 164--168
-[]\OT1/cmr/m/n/10 Machine learn-ing, Bayesian in-fer-ence, op-ti-miza-tion, sig
--nal pro-cess-ing, and their ap-pli-ca-tions. Stochas-
  []
 
 (./bu1.aux)
@@ -422,31 +416,31 @@ Overfull \hbox (0.35706pt too wide) in paragraph at lines 164--168
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
+(Font)              <6> on input line 30.
 ) (./bu1.aux)
 No file bu.aux.
 [2]
-Overfull \hbox (0.58855pt too wide) in alignment at lines 247--264
+Overfull \hbox (0.58855pt too wide) in alignment at lines 262--279
  [] [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 410.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 426.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 410.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 426.
  (./cv_Dong.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 410.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 410.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 410.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 426.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 426.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 426.
  ) 
 Here is how much of TeX's memory you used:
- 9568 strings out of 493638
- 133203 string characters out of 6146795
+ 9562 strings out of 493638
+ 133110 string characters out of 6146795
  209936 words of memory out of 5000000
- 12905 multiletter control sequences out of 15000+600000
- 9737 words of font info for 34 fonts, out of 8000000 for 9000
+ 12900 multiletter control sequences out of 15000+600000
+ 9391 words of font info for 33 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 29i,11n,49p,553b,543s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,49p,553b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv_Dong.pdf (3 pages).
