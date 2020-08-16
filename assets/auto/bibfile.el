@@ -20,12 +20,12 @@
     "liu2020powering"
     "liu2020neural"
     "honore2020hidden"
-    "liu2020region"
     "liu2020alpha"
     "anubhad2020"
     "andrea2020"
     "zuxing2020cdc"
     "chatterjee2019ssfn"
-    "liu2018will"))
+    "liu2018will"
+    "liu2020region"))
  :bibtex)
 
