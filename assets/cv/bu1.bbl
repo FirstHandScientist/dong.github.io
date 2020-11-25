@@ -23,7 +23,8 @@
 
 \bibitem{liu2020region}
 \textbf{D.~Liu}, R.~Thobaben, and L.~K. Rasmussen, ``Region-based energy neural
-  network for approximate inference.''
+  network for approximate inference,'' \emph{arXiv preprint arXiv:2006.09927},
+  2020.
 
 \bibitem{liu2020alpha}
 \textbf{D.~Liu}, M.~T. Vu, Z.~Li, and L.~K. Rasmussen, ``$\alpha$ belief
