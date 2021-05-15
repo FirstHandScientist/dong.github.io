@@ -39,13 +39,13 @@ Z.~Li, G.~Dan, and \textbf{D.~Liu}, ``A game theoretic analysis of lqg control
 \bibitem{anubhad2020}
 A.~Ghosh, A.~Honor{\'e}, \textbf{D.~Liu}, G.~E. Henter, and S.~Chatterjee,
   ``Robust classification using hidden markov models and mixtures of
-  normalizing flows,'' in \emph{to appeary in IEEE International Workshop on
-  Machine Learning for Signal Processing}, 2020.
+  normalizing flows,'' in \emph{IEEE International Workshop on Machine Learning
+  for Signal Processing}, 2020.
 
 \bibitem{andrea2020}
 A.~Scotti, N.~N. Moghadam, \textbf{D.~Liu}, K.~Gafvert, and J.~Huang, ``Graph
   neural networks for massive mimo detection and higher-order qam,'' in
-  \emph{in ICML Workshop on Graph Representation Learning and Beyond}, 2020.
+  \emph{ICML Workshop on Graph Representation Learning and Beyond}, 2020.
 
 \bibitem{liu2020powering}
 \textbf{D.~Liu}, A.~Honor\'{e}, S.~Chatterjee, and L.~K. Rasmussen, ``Powering
@@ -84,7 +84,8 @@ S.~Chatterjee, A.~M. Javid, M.~Sadeghi, S.~Kikuta, \textbf{D.~Liu}, P.~P.
 
 \bibitem{liu2019alpha}
 \textbf{D.~Liu}, N.~N. Moghadam, L.~K. Rasmussen, J.~Huang, and S.~Chatterjee,
-  ``$\alpha$ belief propagation as fully factorized approximation,'' 2019.
+  ``$\alpha$ belief propagation as fully factorized approximation,'' in
+  \emph{IEEE Global Conference on Signal and Information Processing}, 2019.
 
 \bibitem{liu2019dominant}
 \textbf{D.~Liu}, B.~Cavarec, L.~K. Rasmussen, and J.~Yue, ``On dominant

@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "a4paper" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("xcolor" "usenames" "dvipsnames") ("tocbibind" "nottoc" "numbib")))
+                     '(("xcolor" "usenames" "dvipsnames") ("bibunits" "subsectionbib") ("tocbibind" "nottoc" "numbib")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
@@ -17,13 +17,13 @@
     "article"
     "art10"
     "xcolor"
+    "bibunits"
     "fullpage"
     "hyperref"
     "titlesec"
     "graphicx"
     "footnote"
     "longtable"
-    "bibunits"
     "textcomp"
     "tocbibind")
    (TeX-add-symbols
